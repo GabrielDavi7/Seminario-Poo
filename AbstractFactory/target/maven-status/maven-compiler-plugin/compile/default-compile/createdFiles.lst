@@ -1,0 +1,7 @@
+com\mycompany\abstractfactory\Gato.class
+com\mycompany\abstractfactory\FabricaAnimal.class
+com\mycompany\abstractfactory\AbstractFactory.class
+com\mycompany\abstractfactory\Cachorro.class
+com\mycompany\abstractfactory\FabricaGato.class
+com\mycompany\abstractfactory\Animal.class
+com\mycompany\abstractfactory\FabricaCachorro.class
