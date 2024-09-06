@@ -1,0 +1,6 @@
+com\mycompany\observerproject\OuvinteDeAlertasPorEmail.class
+com\mycompany\observerproject\Editor.class
+com\mycompany\observerproject\OuvinteDeEvento.class
+com\mycompany\observerproject\GerenciadorDeEventos.class
+com\mycompany\observerproject\ObserverProject.class
+com\mycompany\observerproject\OuvinteDeLogs.class
